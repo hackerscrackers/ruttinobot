@@ -40,7 +40,7 @@ if(strpos($text, "/start") === 0 || $text=="ciao")
 }
 elseif(strpos($text, "/ver") === 0 || $text=="version")
 {
-	$response = "$firstname, la versione di questo bot è: v41";
+	$response = "$firstname, la versione di questo bot è: v46";
 }
 elseif(strpos($text, "/help") === 0 || $text=="aiuto")
 {
