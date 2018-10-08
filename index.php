@@ -1,5 +1,5 @@
 <?php 
-<p>echo "The World Is Your! - Scarface"</p>;
+echo <p>"The World Is Your! - Scarface"</p>;
 
 $quotes = array("no, provare no. Fare o non fare. Non c’è provare (Yoda in Star Wars - Il ritorno dello Jedi)",
                 "Perché ci tieni così tanto a entrare nel gruppo, visto che sei fatta per emergere. (Ian Wallace in Una ragazza e il suo sogno)",
