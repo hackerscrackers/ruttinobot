@@ -1,9 +1,15 @@
 <?php
 
 // PARAMETRI DA MODIFICARE
+
+// Variabili iniziali.
 //$WEBHOOK_URL = 'https://{APP NAME}.herokuapp.com/execute.php';
-$WEBHOOK_URL = getenv('URL_WEBHOOK');
 //$BOT_TOKEN = '{TOKEN}';
+
+//uso getenv perchè la variabile $WEBHOOK_URL è stata inserita nelle config vars di heroku
+$WEBHOOK_URL = getenv('URL_WEBHOOK');
+
+//uso getenv perchè la variabile $WEBHOOK_URL è stata inserita nelle config vars di heroku
 $BOT_TOKEN = getenv('TOKEN');
 
 // NON APPORTARE MODIFICHE NEL CODICE SEGUENTE
