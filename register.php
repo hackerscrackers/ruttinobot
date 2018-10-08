@@ -18,3 +18,4 @@ curl_setopt($handle, CURLOPT_TIMEOUT, 60);
 $result = curl_exec($handle);
 print_r($result);
 
+?>
