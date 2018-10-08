@@ -102,7 +102,7 @@ elseif($text=="come stai?") // new
 }
 elseif($text=="prova github")
 {
-	$response = "Sè leggi questo messaggio, allora github funziona!"
+	$response = "Sè leggi questo messaggio, allora github funziona!";
 }
 else
 {
