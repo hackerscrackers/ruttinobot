@@ -30,7 +30,8 @@ $quotes = array("no, provare no. Fare o non fare. Non c’è provare (Yoda in St
                 "No, forse non vincerò. Forse l’unica cosa che potrò fare sarà quello di rendergli la vita difficile. Ma per battere me, dovrà riuscire ad uccidermi, e per uccidermi dovrà avere il fegato di stare di fronte a me. E per fare questo, dovrà essere pronto a morire anche lui. E io non so se sia disposto a farlo… non lo so. (Rocky IV)",
                 "Io credo ancora nel Paradiso, ma almeno adesso so che non è un posto da cercare fuori. Perché non è dove vai, lo trovi dentro, quando senti per un momento di far parte di qualcosa... e se lo trovi, quel momento, dura per sempre (Richard in The Beach)",
                 "Certi hanno una luce attorno che illumina anche le altre persone. Penso che forse alcuni di loro stavano in un tunnel e in quel tunnel forse l’unica luce che avevano stava dentro di loro. E poi, anche tanto tempo dopo che sono usciti dal tunnel, continuano a splendere per tutti gli altri. (Precious)",
-                "Perché voler credere in tutto allo stesso momento corrisponde esattamente a non credere in niente (Padre di Pi in Vita di Pi)"
+                "Perché voler credere in tutto allo stesso momento corrisponde esattamente a non credere in niente (Padre di Pi in Vita di Pi)",
+                "I morti non fanno ritorno. Ma qualcuno rimane. (San Giovanni Evangelista in Malevolent - Le voci del male)"
 );
 echo $quotes[array_rand($quotes)] . "\n";
 
