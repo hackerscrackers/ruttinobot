@@ -1,1 +1,25 @@
-{}
+{
+    "name": "hackerscrackers/ruttinobot",
+    "description": "This is a very cool bot ;)!",
+    "version": "0.0.50",
+    "type": "project",
+    "keywords": ["cool", "telegram", "bot", "telegram bot", "php", "awesome"],
+    "homepage": "https://github.com/hackerscrackers/ruttinobot/",
+    "time": "13-06-2018",
+    "license": "GPLv3",
+    "authors": [
+        {
+            "name": "hackerscrackers",
+            "email": "hackerscrackers@hotmail.it",
+            "homepage": "http://www.hackerscrackers.altervista.",
+            "role": "Developer"
+        },
+    ],
+    "support": {
+        "email": "hackerscrackers@hotmail.it",
+        "issues": "https://github.com/hackerscrackers/ruttinobot/issues",
+        "source": "https://github.com/hackerscrackers/ruttinobot/",
+        "docs": "https://github.com/hackerscrackers/ruttinobot/wiki"
+    }
+
+}
